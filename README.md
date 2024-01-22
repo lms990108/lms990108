@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lms990108/lms990108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=welcome&reversal=true&desc=minseop%20github%20profile&descAlign=60&textBg=false)
+
+
+<!-- <a href="https://nakhwa.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_blog-FF7F50"/></a> -->
+
