@@ -63,8 +63,8 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
 </div>
-<br>
 
+<br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://nakhwa.tistory.com">
@@ -76,7 +76,7 @@
   </a>
 </div>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<br>
 <p align="center">
   <a href="https://github.com/lms990108">
     <!-- GitHub에서 가장 많이 사용한 언어 통계를 compact 레이아웃으로 표시합니다. -->
@@ -84,10 +84,17 @@
   </a>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
+<br>
 <p align="center">
   <a href="https://github.com/lms990108">
     <!-- GitHub의 전체 커밋 통계를 표시합니다. -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lms990108&hide=issues,contribs&hide_title=false&show_icons=true&include_all_commits=true&theme=radical" />
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <a href="https://solved.ac/lms990108/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms990108" alt="Baekjoon Profile"/>
   </a>
 </p>
