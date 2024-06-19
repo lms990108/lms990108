@@ -7,9 +7,9 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -19,21 +19,33 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
 <br>
+<h3 align="center">💾 DB Stack 💾</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+</div>
 
+<br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
 </div>
 
-<br>
 
+<br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -68,7 +80,7 @@
 <p align="center">
   <a href="https://github.com/lms990108">
     <!-- GitHub에서 가장 많이 사용한 언어 통계를 compact 레이아웃으로 표시합니다. -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lms990108&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=html,css" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lms990108&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=html,css,python,jupyter%20notebook,kotlin,javascript" />
   </a>
 </p>
 
