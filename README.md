@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=welcome&reversal=true&desc=minseop's%20github%20profile&descAlign=60&textBg=false" width="350" heigth="50"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=400&color=gradient&text=welcome&reversal=true&desc=minseop's%20github%20profile&descAlign=70&textBg=false&fontSize=100&descFontSize=100" width="400" height="140"/>
 </div>
 
 <br>
