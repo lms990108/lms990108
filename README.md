@@ -80,7 +80,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/lms990108">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lms990108&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=html,css,python,jupyter%20notebook,kotlin,javascript" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lms990108&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=html,dart,css,python,jupyter%20notebook,kotlin,javascript" />
   </a>
 <!--   <a href="https://github.com/lms990108">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lms990108&hide=issues,contribs&hide_title=false&show_icons=true&include_all_commits=true&theme=radical" />
